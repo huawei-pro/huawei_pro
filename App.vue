@@ -7,6 +7,8 @@
 <script>
 export default {
   name: 'App',
+  //初始状态数据对象
+  
 }
 </script>
 
